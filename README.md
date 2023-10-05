@@ -1,0 +1,2 @@
+# univerzitnyportal
+diplomova praca
